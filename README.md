@@ -10,7 +10,8 @@
 
 ## **Credits**
 - https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/unc-ral-fsf-pt-11-2020-u-c/tree/master/02-css-bootstrap/activities/_hw2-starter
-- 
+- https://www.w3schools.com/bootstrap/
+- https://getbootstrap.com/
 - https://freefrontend.com/css-background-patterns/
 
 
