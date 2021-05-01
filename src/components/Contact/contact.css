@@ -1,0 +1,15 @@
+.contact-submit {
+    background-color: rgb(207, 207, 24);
+    color: black;
+    margin: 15px;
+  }
+  .contact-submit:hover {
+    background-color: #e7e300;
+    color: black;
+    margin: 15px;
+  }
+  
+  
+  #name-field {
+    margin-bottom: 5px
+  }

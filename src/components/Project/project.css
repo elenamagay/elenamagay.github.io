@@ -1,0 +1,25 @@
+figure {
+    display: table;
+    margin: 0px;
+  }
+  
+  figure img {
+    display: block;
+  }
+  
+  figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    text-align: center;
+  }
+  
+  .portfolio-image {
+    margin: 2rem 0 0 0;
+    border: 2px solid darkgray;
+    border-radius: 15px;
+  }
+  
+  .gh-link {
+    font-size: 20px;
+    margin-left: 15px;
+  }

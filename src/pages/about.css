@@ -1,0 +1,26 @@
+.photo {
+    margin: 0 0 15px 0;
+    border-radius: 5%;
+    
+  }
+  
+  .icon-button {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: none;
+    bottom: 6px;
+    font-size: 30px;
+    outline: none;
+    background-color: transparent;
+  }
+  
+  @keyframes aboutHover {
+    0% {
+      font-size: 30px;
+    }
+  
+    100% {
+      font-size: 36px;
+    }
+  }
