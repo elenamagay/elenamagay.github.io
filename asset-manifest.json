@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e12d819d.chunk.css",
-    "main.js": "/static/js/main.95d3940d.chunk.js",
-    "main.js.map": "/static/js/main.95d3940d.chunk.js.map",
+    "main.css": "/static/css/main.c2e39162.chunk.css",
+    "main.js": "/static/js/main.1d5dc67c.chunk.js",
+    "main.js.map": "/static/js/main.1d5dc67c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6ba6d619.js",
     "runtime-main.js.map": "/static/js/runtime-main.6ba6d619.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.f1fba872.chunk.js": "/static/js/2.f1fba872.chunk.js",
-    "static/js/2.f1fba872.chunk.js.map": "/static/js/2.f1fba872.chunk.js.map",
+    "static/js/2.419b8ba6.chunk.js": "/static/js/2.419b8ba6.chunk.js",
+    "static/js/2.419b8ba6.chunk.js.map": "/static/js/2.419b8ba6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.e12d819d.chunk.css.map": "/static/css/main.e12d819d.chunk.css.map",
-    "static/js/2.f1fba872.chunk.js.LICENSE.txt": "/static/js/2.f1fba872.chunk.js.LICENSE.txt",
+    "static/css/main.c2e39162.chunk.css.map": "/static/css/main.c2e39162.chunk.css.map",
+    "static/js/2.419b8ba6.chunk.js.LICENSE.txt": "/static/js/2.419b8ba6.chunk.js.LICENSE.txt",
     "static/media/400-contact.png": "/static/media/400-contact.9a99c50c.png",
     "static/media/400-index .png": "/static/media/400-index .9cbdfd5a.png",
     "static/media/400-portfolio.png": "/static/media/400-portfolio.a9511a91.png",
@@ -26,15 +26,15 @@
     "static/media/PasswordGenerator.png": "/static/media/PasswordGenerator.aa25cbf8.png",
     "static/media/WeatherDashboard.png": "/static/media/WeatherDashboard.91b09f9b.png",
     "static/media/WorkDayScheduler.png": "/static/media/WorkDayScheduler.dcdfc58c.png",
-    "static/media/photo.jpg": "/static/media/photo.db86b5a2.jpg",
+    "static/media/photo.db86b5a2.jpg": "/static/media/photo.db86b5a2.jpg",
     "static/media/triviaTrainer.png": "/static/media/triviaTrainer.17b00fbe.png",
     "static/media/workoutBuddy.png": "/static/media/workoutBuddy.f04a0a55.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6ba6d619.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.f1fba872.chunk.js",
-    "static/css/main.e12d819d.chunk.css",
-    "static/js/main.95d3940d.chunk.js"
+    "static/js/2.419b8ba6.chunk.js",
+    "static/css/main.c2e39162.chunk.css",
+    "static/js/main.1d5dc67c.chunk.js"
   ]
 }
