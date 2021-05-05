@@ -1,5 +1,6 @@
 import Container from "../components/Container/container";
-import Portfolio from "../components/Portfolio/portfolio"
+// import Portfolio from "../components/Portfolio/portfolio"
+import Project from "../components/Portfolio/project"
 import projects from "../projects"
 
 function PortfolioPage() {
@@ -9,8 +10,9 @@ function PortfolioPage() {
   const createRows = () => {
     let rows = []
 
-    for (let i = 0; i < projects.length; i += 2) {
-      rows.push(<Portfolio key={projects[i].id} projectA={projects[i]} projectB={projects[i + 1]} />);
+    for (let i = 0; i < projects.length; i ++) {
+      rows.push(<Project key={projects[i].id} info={projects[i]} alt={projects[i + 1]} />);
+      // rows.push(<Portfolio key={projects[i].id} projectA={projects[i]} projectB={projects[i + 1]} />);
     }
 
     return rows;

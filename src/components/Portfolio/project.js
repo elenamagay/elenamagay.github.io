@@ -6,7 +6,7 @@ function Project(props) {
     <div className="col-lg">
       <figure>
         <a href={props.info.github} target="blank" rel="noreferrer">
-          <img className="figure-img img-fluid portfolio-image" src={require(`../../Images/${props.info.thumbnail}`).default}
+          <img className="figure-img img-fluid portfolio-image" src={require(`../../Images/${props.info.thumbnail}.png`).default}
           alt={`${props.info.name} Thumbnail`} />
         </a>
         <figcaption className="figure-caption">
