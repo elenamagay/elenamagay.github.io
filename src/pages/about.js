@@ -16,8 +16,17 @@ function About() {
             </div>
             <div className="col-md-6 col-lg-7">
               <p>
-              My name is Elena Magay. Currently I am a student at the Coding Bootcamp at the UNC. An expected date of graduation is May 2021. 
-              After graduation I will be a full stack developer efficient both at the front and back end of web development.
+                My name is Elena Magay and I live in Morrisville, NC.
+              </p>
+              <p>
+                I am a highly motivated Web Developer with an ability of logical thinking and grasping new concepts 
+                quickly and efficiently.
+                I graduated with a Bachelor's degree in Management and Finance and worked as a financier and an accountant in 
+                a construction company participating in the implementation of several projects (local and international).
+              </p>
+              <p>
+                Later I decided to make a change into Web Development and design. And recently I have graduated a Coding Bootcamp 
+                from UNC Chapel Hill.
               </p>
               <button className="icon-button">
                   <a href="https://www.linkedin.com/in/elena-magay-73b50a1bb/" target="blank" rel="noreferrer" aria-label="LinkedIn">
@@ -34,21 +43,21 @@ function About() {
               </p>
               <ul class="card-text">
                 My skills:
-                    <li>
-                        MySQL and MongoDB databases;
-                    </li>                    
-                    <li>
-                        Back-end development: node.js, Express, local storage, session storage, indexedDB, User Authentication, Progressive Web Application, MERN stack;
-                    </li>
-                    <li>
-                        Front-end development: HTML, CSS, JavaScript, jQuery, Bootstrap, handlebars, react.js;
-                    </li>
-                    <li>
-                        API: json, ajax;
-                    </li>
-                    <li>
-                        Deployment/ command-line: Heroku, Git Bash, GitHub Pages
-                    </li>
+                  <li>
+                      Front-end development: HTML, CSS, SCSS, JavaScript, jQuery, Bootstrap, handlebars, React, Reactstrap;
+                  </li>
+                  <li>
+                      Back-end development: node.js, Express, local storage, session storage, indexedDB, User Authentication, Progressive Web Application, MERN stack;
+                  </li>
+                  <li>
+                      MySQL and MongoDB databases;
+                  </li>
+                  <li>
+                      API: json, ajax;
+                  </li>
+                  <li>
+                      Deployment/ command-line: Heroku, Git Bash, GitHub Pages
+                  </li>
                     
                 </ul>
             </div>
